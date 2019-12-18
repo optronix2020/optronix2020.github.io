@@ -1,0 +1,8 @@
+.clean-block.clean-hero .text {
+  max-width: 750px;
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
